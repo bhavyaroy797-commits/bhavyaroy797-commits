@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bhavya! 👋
 
-<!--
-**bhavyaroy797-commits/bhavyaroy797-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **B.Tech CSE student** (specializing in Cybersecurity) and an aspiring **Full Stack MERN Developer**. I love building AI-driven solutions and tackling complex coding challenges.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* **💻 Languages:** Python, C, Java (Learning), SQL
+* **🎨 Frontend:** HTML5, CSS3, Bootstrap
+* **⚙️ Backend/Databases:** MySQL, MongoDB (Learning)
+* **🔧 Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+* **🌐 Full Stack Development:** Progressing in the MERN stack (MongoDB, Express, React, Node.js) and building real-world projects.
+
+### 📈 GitHub Stats
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyaroy797-commits&show_icons=true&theme=radical)
+
+---
+
+### 📬 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/bhavya-roy-3b8186320)
+* Email: bhavyaroy797@gmail.com
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
