@@ -18,6 +18,6 @@ I am a **B.Tech CSE student** (specializing in Cybersecurity) and an aspiring **
 
 ### 📬 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/bhavya-roy-3b8186320)
-* Email: bhavyaroy797@gmail.com
+* [Email](bhavyaroy797@gmail.com)
 
 *“Code is like humor. When you have to explain it, it’s bad.”*
